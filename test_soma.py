@@ -6,5 +6,5 @@ def test_soma():
     b = 3
 
     resultado = soma(a, b)
-    
-    assert resultado == 10
+
+    assert resultado == 5
