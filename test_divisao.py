@@ -15,4 +15,5 @@ def test_divisao():
 def test_divisao_por_zero():
     with pytest.raises(ValueError):
         divisao(10, 0)
+
         

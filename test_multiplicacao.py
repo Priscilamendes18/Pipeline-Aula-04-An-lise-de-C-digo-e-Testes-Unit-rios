@@ -8,4 +8,5 @@ def test_multiplicacao():
     resultado = multiplicacao(a, b)
 
     assert resultado == 12
+
     
