@@ -1,10 +1,10 @@
-from calculadora import subtracao
+from calculadora import multiplicacao
 
 
-def test_subtracao():
-    a = 5
+def test_multiplicacao():
+    a = 4
     b = 3
 
-    resultado = subtracao(a, b)
+    resultado = multiplicacao(a, b)
 
-    assert resultado == 2
+    assert resultado == 12
