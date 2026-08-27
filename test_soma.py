@@ -8,3 +8,4 @@ def test_soma():
     resultado = soma(a, b)
 
     assert resultado == 5
+    

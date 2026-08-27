@@ -8,3 +8,4 @@ def test_subtracao():
     resultado = subtracao(a, b)
 
     assert resultado == 2
+    
